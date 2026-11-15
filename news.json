@@ -1,0 +1,931 @@
+{
+ "schema": "news_selector_v1",
+ "generated": "2026-11-15",
+ "sites": [
+  {
+   "site": "Brasil",
+   "domain": "manufatura360.com",
+   "url": "https://manufatura360.com/",
+   "group": "regional",
+   "lang": "pt",
+   "pages_checked": 2,
+   "picks": [
+    {
+     "rank": 1,
+     "title": "MCP for PLCnext Control abre os dados de automação para agentes de IA",
+     "url": "https://www.manufatura360.com/news/117364-mcp-for-plcnext-control-abre-os-dados-de-automa%C3%A7%C3%A3o-para-agentes-de-ia",
+     "date": "2026-11-14",
+     "summary": "Phoenix Contact's app gives AI agents controlled, standardized access to PLCnext automation data through the Model Context Protocol.",
+     "why": "Industrial AI agents are the hot topic; broad appeal.",
+     "id": "117364"
+    },
+    {
+     "rank": 2,
+     "title": "Simulação e IA física em robótica industrial",
+     "url": "https://www.manufatura360.com/news/117292-simula%C3%A7%C3%A3o-e-ia-f%C3%ADsica-em-rob%C3%B3tica-industrial",
+     "date": "2026-11-12",
+     "summary": "ABB Robotics and NVIDIA partner on a training program for physical AI and robotics simulation using RobotStudio and Omniverse.",
+     "why": "Big-name partnership on robotics and AI.",
+     "id": "117292"
+    },
+    {
+     "rank": 3,
+     "title": "Automação robotizada na soldagem de máquinas agrícolas",
+     "url": "https://www.manufatura360.com/news/117029-automa%C3%A7%C3%A3o-robotizada-na-soldagem-de-m%C3%A1quinas-agr%C3%ADcolas",
+     "date": "2026-11-05",
+     "summary": "AGCO's Ibirubá plant uses enclosed robotic welding cells and automated handling to reduce workers' exposure to hazards and strain.",
+     "why": "Brazilian plant case, concrete and local.",
+     "id": "117029"
+    },
+    {
+     "rank": 4,
+     "title": "Cibersegurança Industrial e Gestão de Ativos de TO",
+     "url": "https://www.manufatura360.com/news/117086-ciberseguran%C3%A7a-industrial-e-gest%C3%A3o-de-ativos-de-to",
+     "date": "2026-11-06",
+     "summary": "Rockwell Automation and Braskem use the SecureOT platform to build an OT asset inventory and manage vulnerabilities across plants.",
+     "why": "Cybersecurity story with a Brazilian customer.",
+     "id": "117086"
+    },
+    {
+     "rank": 5,
+     "title": "Automação Industrial Para Infraestrutura De Saneamento E Energia",
+     "url": "https://www.manufatura360.com/news/117186-automa%C3%A7%C3%A3o-industrial-para-infraestrutura-de-saneamento-e-energia",
+     "date": "2026-11-10",
+     "summary": "Mitsubishi Electric Brasil deploys PLCs, drives, HMIs and SCADA in water and energy infrastructure to cut losses and energy use.",
+     "why": "Local infrastructure project.",
+     "id": "117186"
+    },
+    {
+     "rank": 6,
+     "title": "Automação Industrial e IA na Inspeção de PCBs",
+     "url": "https://www.manufatura360.com/news/117228-automa%C3%A7%C3%A3o-industrial-e-ia-na-inspe%C3%A7%C3%A3o-de-pcbs",
+     "date": "2026-11-11",
+     "summary": "Siemens and NVIDIA use a digital twin and synthetic images to calibrate optical inspection of circuit boards before physical production.",
+     "why": "Digital twin and AI inspection, strong technical interest.",
+     "id": "117228"
+    }
+   ],
+   "ids": [
+    "117364",
+    "117292",
+    "117029",
+    "117086",
+    "117186",
+    "117228"
+   ]
+  },
+  {
+   "site": "Asia Pacific",
+   "domain": "industry-asia-pacific.com",
+   "url": "https://industry-asia-pacific.com/",
+   "group": "regional",
+   "lang": "en",
+   "pages_checked": 2,
+   "picks": [
+    {
+     "rank": 1,
+     "title": "Kawasaki Launches Automated Production Line for Liquefied Hydrogen Plant Piping",
+     "url": "https://www.industry-asia-pacific.com/news/117352-kawasaki-launches-automated-production-line-for-liquefied-hydrogen-plant-piping",
+     "date": "2026-11-13",
+     "summary": "Kawasaki's new automated line at Harima Works makes double-wall hydrogen piping and has shipped its first spool for a Japanese liquefied hydrogen project.",
+     "why": "Hydrogen supply chain milestone in the region.",
+     "id": "117352"
+    },
+    {
+     "rank": 2,
+     "title": "HVDC Transmission Systems for Grid Stabilization",
+     "url": "https://www.industry-asia-pacific.com/news/117118-hvdc-transmission-systems-for-grid-stabilization",
+     "date": "2026-11-09",
+     "summary": "PowerGrid Corporation of India and GE Vernova installed an 800 kV converter system with eLumina controls to connect renewable power to the grid.",
+     "why": "Large grid project in India.",
+     "id": "117118"
+    },
+    {
+     "rank": 3,
+     "title": "Equinix Opens SG6 in Singapore",
+     "url": "https://www.industry-asia-pacific.com/news/117099-equinix-opens-sg6-in-singapore",
+     "date": "2026-11-09",
+     "summary": "Equinix's new Singapore data center pairs liquid cooling and renewable energy with global network connectivity.",
+     "why": "Data center growth in the region.",
+     "id": "117099"
+    },
+    {
+     "rank": 4,
+     "title": "ZEISS TALOS sets a new benchmark in automated digital inspection",
+     "url": "https://www.industry-asia-pacific.com/news/117044-zeiss-talos-sets-a-new-benchmark-in-automated-digital-inspection",
+     "date": "2026-11-06",
+     "summary": "ZEISS's new metrology robot offers lab-grade measurement accuracy and reach without external tracking equipment.",
+     "why": "Quality inspection product launch.",
+     "id": "117044"
+    },
+    {
+     "rank": 5,
+     "title": "Siemens strengthens regional rail partnerships at the inaugural SUMW 2026",
+     "url": "https://www.industry-asia-pacific.com/news/117039-siemens-strengthens-regional-rail-partnerships-at-the-inaugural-sumw-2026",
+     "date": "2026-11-06",
+     "summary": "Siemens Mobility is working with SBS Transit and ST Engineering on digital signalling and rail maintenance projects across Asia-Pacific.",
+     "why": "Rail partnerships in Southeast Asia.",
+     "id": "117039"
+    },
+    {
+     "rank": 6,
+     "title": "Scaling Sodium-Ion Battery Hard Carbon Anode Production",
+     "url": "https://www.industry-asia-pacific.com/news/116695-scaling-sodium-ion-battery-hard-carbon-anode-production",
+     "date": "2026-11-04",
+     "summary": "Stora Enso and Shanshan Technology are building a demonstration line in Ningbo to test lignin-based anodes for sodium-ion batteries.",
+     "why": "Battery technology beyond lithium.",
+     "id": "116695"
+    },
+    {
+     "rank": 7,
+     "title": "MCP For PLCnext Control Opens Automation Data To AI Agents",
+     "url": "https://www.industry-asia-pacific.com/news/117364-mcp-for-plcnext-control-opens-automation-data-to-ai-agents",
+     "date": "2026-11-14",
+     "summary": "Phoenix Contact's new app lets AI agents securely access automation data and functions through a standard protocol.",
+     "why": "Industrial AI agents, general interest.",
+     "id": "117364"
+    }
+   ],
+   "ids": [
+    "117352",
+    "117118",
+    "117099",
+    "117044",
+    "117039",
+    "116695",
+    "117364"
+   ]
+  },
+  {
+   "site": "Australia",
+   "domain": "industry-australia.com",
+   "url": "https://industry-australia.com/",
+   "group": "regional",
+   "lang": "en",
+   "pages_checked": 2,
+   "picks": [
+    {
+     "rank": 1,
+     "title": "Green Ammonia Bunkering Demonstrated at Port Hedland",
+     "url": "https://www.industry-australia.com/news/116988-green-ammonia-bunkering-demonstrated-at-port-hedland",
+     "date": "2026-11-05",
+     "summary": "Fortescue fuelled an ammonia-powered bulk carrier with green ammonia at Port Hedland, Australia's first such transfer.",
+     "why": "Australian first in low-carbon shipping.",
+     "id": "116988"
+    },
+    {
+     "rank": 2,
+     "title": "Fortescue Commercialises Hydrometallurgical Arsenic Leaching Process",
+     "url": "https://www.industry-australia.com/news/116289-fortescue-commercialises-hydrometallurgical-arsenic-leaching-process",
+     "date": "2026-10-20",
+     "summary": "Fortescue sold 40 tonnes of cleaned copper concentrate, showing its low-temperature arsenic removal technology is commercially viable.",
+     "why": "Mining technology breakthrough by a local company.",
+     "id": "116289"
+    },
+    {
+     "rank": 3,
+     "title": "Battery Energy Storage System Coupling for Solar Hybridisation",
+     "url": "https://www.industry-australia.com/news/116490-battery-energy-storage-system-coupling-for-solar-hybridisation",
+     "date": "2026-10-23",
+     "summary": "Ingeteam and National Electricity Market operators use battery hybridisation to reduce curtailment of utility-scale solar.",
+     "why": "Energy storage for the Australian grid.",
+     "id": "116490"
+    },
+    {
+     "rank": 4,
+     "title": "Grid Scale Energy Storage Power Conversion Systems",
+     "url": "https://www.industry-australia.com/news/116373-grid-scale-energy-storage-power-conversion-systems",
+     "date": "2026-10-21",
+     "summary": "Jinko ESS and Ingeteam are deploying power conversion systems in Australian hybrid and standalone grid storage projects.",
+     "why": "Local storage projects.",
+     "id": "116373"
+    },
+    {
+     "rank": 5,
+     "title": "Humanoid Robots Collaborate with CNC Machine Tools via Physical AI",
+     "url": "https://www.industry-australia.com/news/116346-humanoid-robots-collaborate-with-cnc-machine-tools-via-physical-ai",
+     "date": "2026-10-21",
+     "summary": "Mitsubishi Electric developed a machining architecture that lets humanoid robots work directly with CNC machine tools using physical AI.",
+     "why": "Robotics and physical AI trend.",
+     "id": "116346"
+    },
+    {
+     "rank": 6,
+     "title": "ZEISS TALOS sets a new benchmark in automated digital inspection",
+     "url": "https://www.industry-australia.com/news/117044-zeiss-talos-sets-a-new-benchmark-in-automated-digital-inspection",
+     "date": "2026-11-06",
+     "summary": "ZEISS's TALOS metrology robot delivers lab-grade measurement accuracy and reach without external tracking systems.",
+     "why": "Inspection product launch.",
+     "id": "117044"
+    },
+    {
+     "rank": 7,
+     "title": "Leica Geosystems introduces Leica DMC-5 large-format camera",
+     "url": "https://www.industry-australia.com/news/117149-leica-geosystems-introduces-leica-dmc-5-large-format-camera",
+     "date": "2026-11-10",
+     "summary": "Leica's new DMC-5 collects roughly a third more data than its predecessors, improving mapping coverage and flexibility.",
+     "why": "Mapping and surveying product launch.",
+     "id": "117149"
+    }
+   ],
+   "ids": [
+    "116988",
+    "116289",
+    "116490",
+    "116373",
+    "116346",
+    "117044",
+    "117149"
+   ]
+  },
+  {
+   "site": "Benelux",
+   "domain": "technologieenindustrie.com",
+   "url": "https://technologieenindustrie.com/",
+   "group": "regional",
+   "lang": "nl",
+   "pages_checked": 2,
+   "picks": [
+    {
+     "rank": 1,
+     "title": "KNF introduceert Nautilus, een simulatietool voor vloeistofsystemen",
+     "url": "https://www.technologieenindustrie.com/news/116991-knf-introduceert-nautilus,-een-simulatietool-voor-vloeistofsystemen",
+     "date": "2026-11-09",
+     "summary": "KNF's Nautilus tool lets customers simulate demanding fluid systems and choose suitable diaphragm pumps from its Smooth Flow range.",
+     "why": "Useful free engineering tool.",
+     "id": "116991"
+    },
+    {
+     "rank": 2,
+     "title": "Reichelt: Minder productiestilstand, maar dalende economische vooruitzichten in Nederland",
+     "url": "https://www.technologieenindustrie.com/news/116123-reichelt-minder-productiestilstand,-maar-dalende-economische-vooruitzichten-in-nederland",
+     "date": "2026-10-15",
+     "summary": "Reichelt reports fewer production stoppages thanks to better component availability, but high energy and logistics costs weigh on Dutch manufacturers.",
+     "why": "Dutch market outlook.",
+     "id": "116123"
+    },
+    {
+     "rank": 3,
+     "title": "Batterij-energieopslagsystemen voor grootschalige flexibiliteit en netstabilisatie in hoogspanningsnetten",
+     "url": "https://www.technologieenindustrie.com/news/116099-batterij-energieopslagsystemen-voor-grootschalige-flexibiliteit-en-netstabilisatie-in-hoogspanningsnetten",
+     "date": "2026-10-15",
+     "summary": "Vattenfall and Royal Vopak agreed on a tolling arrangement for large-scale battery storage near Meeden to manage grid congestion.",
+     "why": "Grid congestion is a major Dutch issue.",
+     "id": "116099"
+    },
+    {
+     "rank": 4,
+     "title": "Eplan zet engineeringdata om in waarde met AI en automatisering",
+     "url": "https://www.technologieenindustrie.com/news/115529-van-data-naar-meerwaarde",
+     "date": "2026-10-19",
+     "summary": "Eplan combines AI, cloud services and open standards with engineering software to connect the whole process chain.",
+     "why": "Engineering data and AI.",
+     "id": "115529"
+    },
+    {
+     "rank": 5,
+     "title": "FLIR benadrukt connected asset management tijdens twee toonaangevende Europese utility- en industrie-evenementen",
+     "url": "https://www.technologieenindustrie.com/news/117174-flir-benadrukt-connected-asset-management-tijdens-twee-toonaangevende-europese-utility-en-industrie-evenementen",
+     "date": "2026-11-12",
+     "summary": "FLIR will show how it turns inspection and monitoring data into asset intelligence at events in Antwerp and Cologne.",
+     "why": "Event in Antwerp, relevant for Benelux.",
+     "id": "117174"
+    },
+    {
+     "rank": 6,
+     "title": "Integratie van wielgevechtsvoertuigen met koepel voor Europese strijdkrachten",
+     "url": "https://www.technologieenindustrie.com/news/116800-integratie-van-wielgevechtsvoertuigen-met-koepel-voor-europese-strijdkrachten",
+     "date": "2026-10-30",
+     "summary": "Artec, a Rheinmetall and KNDS joint venture, supplies modular 8x8 platforms to standardize defense infrastructure.",
+     "why": "European defence industry story.",
+     "id": "116800"
+    },
+    {
+     "rank": 7,
+     "title": "Elektrische beveiliging en circulaire industriële schakelapparatuur",
+     "url": "https://www.technologieenindustrie.com/news/116673-elektrische-beveiliging-en-circulaire-industri%C3%ABle-schakelapparatuur",
+     "date": "2026-10-28",
+     "summary": "Siemens expands its semiconductor-based SENTRON ECPD line and introduces refurbished SIRIUS 3RW5 soft starters.",
+     "why": "Circular economy angle.",
+     "id": "116673"
+    }
+   ],
+   "ids": [
+    "116991",
+    "116123",
+    "116099",
+    "115529",
+    "117174",
+    "116800",
+    "116673"
+   ]
+  },
+  {
+   "site": "China",
+   "domain": "engineering-china.com",
+   "url": "https://engineering-china.com/",
+   "group": "regional",
+   "lang": "zh",
+   "pages_checked": 2,
+   "picks": [
+    {
+     "rank": 1,
+     "title": "统一机器人平台加速可信物理AI系统部署",
+     "url": "https://www.engineering-china.com/news/117155-%E7%BB%9F%E4%B8%80%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B9%B3%E5%8F%B0%E5%8A%A0%E9%80%9F%E5%8F%AF%E4%BF%A1%E7%89%A9%E7%90%86ai%E7%B3%BB%E7%BB%9F%E9%83%A8%E7%BD%B2",
+     "date": "2026-11-10",
+     "summary": "NXP introduced a unified robotics platform with pre-validated hardware and open-source software to shorten integration for drones and mobile robots.",
+     "why": "Robotics platform, strong interest in China.",
+     "id": "117155"
+    },
+    {
+     "rank": 2,
+     "title": "石化工业自动化与数字化供应链采购",
+     "url": "https://www.engineering-china.com/news/117018-%E7%9F%B3%E5%8C%96%E5%B7%A5%E4%B8%9A%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%8E%E6%95%B0%E5%AD%97%E5%8C%96%E4%BE%9B%E5%BA%94%E9%93%BE%E9%87%87%E8%B4%AD",
+     "date": "2026-11-05",
+     "summary": "Siemens signed a letter of intent with Sinopec's international procurement arm to supply electrification, automation and digital technologies for petrochemical projects.",
+     "why": "Deal with a major Chinese company.",
+     "id": "117018"
+    },
+    {
+     "rank": 3,
+     "title": "人形机器人关节执行器智能装配与闭环制造",
+     "url": "https://www.engineering-china.com/news/116365-%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%85%B3%E8%8A%82%E6%89%A7%E8%A1%8C%E5%99%A8%E6%99%BA%E8%83%BD%E8%A3%85%E9%85%8D%E4%B8%8E%E9%97%AD%E7%8E%AF%E5%88%B6%E9%80%A0",
+     "date": "2026-10-21",
+     "summary": "Schaeffler opened a Taicang lighthouse plant that assembles humanoid robot joint actuators using a digital twin and cobots.",
+     "why": "Humanoid robot manufacturing in China.",
+     "id": "116365"
+    },
+    {
+     "rank": 4,
+     "title": "瑞萨电子推出面向工业自动化与机器人领域的 RZ/T2N 处理器",
+     "url": "https://www.engineering-china.com/news/117017-%E7%91%9E%E8%90%A8%E7%94%B5%E5%AD%90%E6%8E%A8%E5%87%BA%E9%9D%A2%E5%90%91%E5%B7%A5%E4%B8%9A%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%8E%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A2%86%E5%9F%9F%E7%9A%84-rz-t2n-%E5%A4%84%E7%90%86%E5%99%A8",
+     "date": "2026-11-05",
+     "summary": "Renesas' RZ/T2N MPU integrates four-axis motor control, industrial Ethernet and Linux cores on one chip for compact robots and servo systems.",
+     "why": "Chip launch for automation and robotics.",
+     "id": "117017"
+    },
+    {
+     "rank": 5,
+     "title": "工业自动化电路板检测数字孪生解决方案",
+     "url": "https://www.engineering-china.com/news/116447-%E5%B7%A5%E4%B8%9A%E8%87%AA%E5%8A%A8%E5%8C%96%E7%94%B5%E8%B7%AF%E6%9D%BF%E6%A3%80%E6%B5%8B%E6%95%B0%E5%AD%AA%E7%94%9F%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88",
+     "date": "2026-10-22",
+     "summary": "Siemens and NVIDIA combine digital twins and synthetic images for automated optical inspection, reportedly cutting manual programming effort by 85%.",
+     "why": "Concrete efficiency figure for electronics makers.",
+     "id": "116447"
+    },
+    {
+     "rank": 6,
+     "title": "马尼托瓦克于 2026 年上海宝马展展示全套吊装解决方案",
+     "url": "https://www.engineering-china.com/news/116624-%E9%A9%AC%E5%B0%BC%E6%89%98%E7%93%A6%E5%85%8B%E4%BA%8E-2026-%E5%B9%B4%E4%B8%8A%E6%B5%B7%E5%AE%9D%E9%A9%AC%E5%B1%95%E5%B1%95%E7%A4%BA%E5%85%A8%E5%A5%97%E5%90%8A%E8%A3%85%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88",
+     "date": "2026-10-28",
+     "summary": "Manitowoc will show compact tower crane technology at bauma China 2026, including a collision-avoidance control system.",
+     "why": "Trade show coverage in Shanghai.",
+     "id": "116624"
+    }
+   ],
+   "ids": [
+    "117155",
+    "117018",
+    "116365",
+    "117017",
+    "116447",
+    "116624"
+   ]
+  },
+  {
+   "site": "Czech",
+   "domain": "modernitovarna.com",
+   "url": "https://modernitovarna.com/",
+   "group": "regional",
+   "lang": "cs",
+   "pages_checked": 2,
+   "picks": [
+    {
+     "rank": 1,
+     "title": "Nabíjecí huby s bateriovými úložišti podporují elektrickou nákladní dopravu",
+     "url": "https://www.modernitovarna.com/news/116639-vysokov%C3%BDkonn%C3%A1-dob%C3%ADjec%C3%AD-infrastruktura-pro-d%C3%A1lni%C4%8Dn%C3%AD-n%C3%A1kladn%C3%AD-dopravu",
+     "date": "2026-10-28",
+     "summary": "Siemens and Equans are building high-power highway charging hubs in the Czech Republic, combining fast charging, battery storage and grid stabilization.",
+     "why": "Czech infrastructure project.",
+     "id": "116639"
+    },
+    {
+     "rank": 2,
+     "title": "Testování kybernetické bezpečnosti v průmyslové automatizaci",
+     "url": "https://www.modernitovarna.com/news/115704-testov%C3%A1n%C3%AD-kybernetick%C3%A9-bezpe%C4%8Dnosti-v-pr%C5%AFmyslov%C3%A9-automatizaci",
+     "date": "2026-10-06",
+     "summary": "RICAIP Testbed Praha and Siemens offer a service that tests industrial control networks for cyber resilience using passive monitoring.",
+     "why": "Local Prague testbed, cybersecurity.",
+     "id": "115704"
+    },
+    {
+     "rank": 3,
+     "title": "Modulární napájení pro AI datová centra",
+     "url": "https://www.modernitovarna.com/news/115645-schneider-electric-roz%C5%A1i%C5%99uje-portfolio-infrastruktury-p%C5%99ipraven%C3%A9-pro-um%C4%9Blou-inteligenci",
+     "date": "2026-10-05",
+     "summary": "Schneider Electric launched factory-built power skids and modules delivering up to 2.5 MW per container for AI data centers.",
+     "why": "AI infrastructure.",
+     "id": "115645"
+    },
+    {
+     "rank": 4,
+     "title": "Sandvik Coromant uvádí na trh kuželovou soudečkovou frézu pro komplexní tvarové obrábění",
+     "url": "https://www.modernitovarna.com/news/117234-sandvik-coromant-uv%C3%A1d%C3%AD-na-trh-ku%C5%BEelovou-soude%C4%8Dkovou-fr%C3%A9zu-pro-komplexn%C3%AD-tvarov%C3%A9-obr%C3%A1b%C4%9Bn%C3%AD",
+     "date": "2026-11-11",
+     "summary": "Sandvik Coromant launched a tapered barrel end mill that speeds up 3D machining of turbine parts with fewer toolpath passes.",
+     "why": "Machining tool, strong for a Czech engineering audience.",
+     "id": "117234"
+    },
+    {
+     "rank": 5,
+     "title": "Ostrovní nabíjecí stanice pro elektrokola využívají automatizaci",
+     "url": "https://www.modernitovarna.com/news/115461-ostrovn%C3%AD-nab%C3%ADjec%C3%AD-stanice-pro-elektrokola-vyu%C5%BE%C3%ADvaj%C3%AD-automatizaci",
+     "date": "2026-09-30",
+     "summary": "Make4Green's off-grid e-bike charging stations use a Siemens S7-1200 G2 PLC to balance solar, wind and battery power.",
+     "why": "Concrete automation case.",
+     "id": "115461"
+    },
+    {
+     "rank": 6,
+     "title": "AI předvídá poruchy čerpadel a předchází prostojům ve výrobě",
+     "url": "https://www.modernitovarna.com/news/115399-ai-p%C5%99edv%C3%ADd%C3%A1-poruchy-%C4%8Derpadel-a-p%C5%99edch%C3%A1z%C3%AD-prostoj%C5%AFm-ve-v%C3%BDrob%C4%9B",
+     "date": "2026-09-30",
+     "summary": "Britvic used Alfa Laval's AI-based Clariot monitoring to catch a developing pump fault early and avoid about six hours of downtime.",
+     "why": "Predictive maintenance with measurable result.",
+     "id": "115399"
+    }
+   ],
+   "ids": [
+    "116639",
+    "115704",
+    "115645",
+    "117234",
+    "115461",
+    "115399"
+   ]
+  },
+  {
+   "site": "Denmark",
+   "domain": "industriogteknik.com",
+   "url": "https://industriogteknik.com/",
+   "group": "regional",
+   "lang": "da",
+   "pages_checked": 2,
+   "picks": [
+    {
+     "rank": 1,
+     "title": "Batterielektriske traktionssystemer til ikke-elektrificerede regionale jernbanenetværk",
+     "url": "https://www.industriogteknik.com/news/117188-batterielektriske-traktionssystemer-til-ikke-elektrificerede-regionale-jernbanenetv%C3%A6rk",
+     "date": "2026-11-10",
+     "summary": "Stadler's battery-electric RS Zero trains will replace diesel units on the Nærumbane in Denmark, starting in 2031.",
+     "why": "Danish rail project.",
+     "id": "117188"
+    },
+    {
+     "rank": 2,
+     "title": "Vattenfall fremmer danske havvindmølleprojekter med en kapacitet på 1,8 GW",
+     "url": "https://www.industriogteknik.com/news/116998-vattenfall-fremmer-danske-havvindm%C3%B8lleprojekter-med-en-kapacitet-p%C3%A5-1,8-gw",
+     "date": "2026-11-05",
+     "summary": "Vattenfall signed concession agreements for the Hesselø and Holmsland offshore wind projects, totaling at least 1.8 GW.",
+     "why": "Major Danish energy news.",
+     "id": "116998"
+    },
+    {
+     "rank": 3,
+     "title": "Mellemspændings-UPS til AI-datacenter i Esbjerg",
+     "url": "https://www.industriogteknik.com/news/115588-mellemsp%C3%A6ndings-ups-til-ai-datacenter-i-esbjerg",
+     "date": "2026-10-02",
+     "summary": "ABB's HiPerGuard medium-voltage UPS will power the DDC1 colocation data center in Esbjerg, planned for 2027.",
+     "why": "Local data center.",
+     "id": "115588"
+    },
+    {
+     "rank": 4,
+     "title": "Ingeniørramme for modernisering og integration af regional energiinfrastruktur",
+     "url": "https://www.industriogteknik.com/news/116657-ingeni%C3%B8rramme-for-modernisering-og-integration-af-regional-energiinfrastruktur",
+     "date": "2026-10-28",
+     "summary": "Sweco and Aalborg Forsyning signed a framework agreement to modernize district heating and move away from coal-based heat.",
+     "why": "Danish district heating.",
+     "id": "116657"
+    },
+    {
+     "rank": 5,
+     "title": "Industrial AI i produktion og datacentre",
+     "url": "https://www.industriogteknik.com/news/116748-industrial-ai-i-produktion-og-datacentre",
+     "date": "2026-10-29",
+     "summary": "Siemens and NVIDIA combine accelerated computing and simulation tools to apply industrial AI across product development, factories and data centers.",
+     "why": "Industrial AI partnership.",
+     "id": "116748"
+    },
+    {
+     "rank": 6,
+     "title": "Taktisk dronedetektion med Edge RF-spektrumanalyse",
+     "url": "https://www.industriogteknik.com/news/115741-taktisk-dronedetektion-med-edge-rf-spektrumanalyse",
+     "date": "2026-10-07",
+     "summary": "MyDefence's Wingman Edge is a lightweight, passive body-worn drone detector that uses on-device AI to spot unknown radio signals.",
+     "why": "Danish defence-tech company.",
+     "id": "115741"
+    }
+   ],
+   "ids": [
+    "117188",
+    "116998",
+    "115588",
+    "116657",
+    "116748",
+    "115741"
+   ]
+  },
+  {
+   "site": "EMEA",
+   "domain": "industryemea.com",
+   "url": "https://industryemea.com/",
+   "group": "regional",
+   "lang": "en",
+   "pages_checked": 2,
+   "picks": [
+    {
+     "rank": 1,
+     "title": "Bosch Restructures Mobility Sector For Operational Agility",
+     "url": "https://www.industryemea.com/news/117367-bosch-restructures-mobility-sector-for-operational-agility",
+     "date": "2026-11-14",
+     "summary": "Bosch is moving its Mobility sector and central service units in Germany into separate GmbH subsidiaries starting 1 August 2027.",
+     "why": "Major corporate restructuring.",
+     "id": "117367"
+    },
+    {
+     "rank": 2,
+     "title": "MCP For PLCnext Control Opens Automation Data To AI Agents",
+     "url": "https://www.industryemea.com/news/117364-mcp-for-plcnext-control-opens-automation-data-to-ai-agents",
+     "date": "2026-11-14",
+     "summary": "Phoenix Contact's app runs on PLCnext controllers and gives compatible AI agents controlled access to automation data via the Model Context Protocol.",
+     "why": "Industrial AI agents.",
+     "id": "117364"
+    },
+    {
+     "rank": 3,
+     "title": "Kawasaki Advances Hydrogen Power Generation",
+     "url": "https://www.industryemea.com/news/117254-kawasaki-advances-hydrogen-power-generation",
+     "date": "2026-11-12",
+     "summary": "Kawasaki and RWE opened a 30 MW-class gas turbine at Emsland in Germany that can run on anything from natural gas to 100% hydrogen.",
+     "why": "Hydrogen power milestone in Europe.",
+     "id": "117254"
+    },
+    {
+     "rank": 4,
+     "title": "Siemens introduces stainless steel Intelligent Valve for liquid cooling",
+     "url": "https://www.industryemea.com/news/117297-siemens-introduces-stainless-steel-intelligent-valve-for-liquid-cooling",
+     "date": "2026-11-12",
+     "summary": "Siemens added a stainless steel Intelligent Valve for direct-to-chip rack cooling in AI data centres and HPC.",
+     "why": "Data center cooling demand.",
+     "id": "117297"
+    },
+    {
+     "rank": 5,
+     "title": "OT Asset Visibility Combined With Industrial Automation Know-How",
+     "url": "https://www.industryemea.com/news/117288-ot-asset-visibility-combined-with-industrial-automation-know-how",
+     "date": "2026-11-12",
+     "summary": "Mitsubishi Electric Europe and Nozomi Networks partner to offer OT asset inventory, risk scoring and guided incident response.",
+     "why": "Cybersecurity partnership for European industry.",
+     "id": "117288"
+    },
+    {
+     "rank": 6,
+     "title": "igus launches e-tract overhead charging system for e-mobility",
+     "url": "https://www.industryemea.com/news/117348-igus-launches-e-tract-overhead-charging-system-for-e-mobility",
+     "date": "2026-11-13",
+     "summary": "igus's e-tract DC lifts heavy megawatt charging cables off the ground, reducing ergonomic strain, vehicle damage and copper theft.",
+     "why": "Truck charging innovation.",
+     "id": "117348"
+    },
+    {
+     "rank": 7,
+     "title": "Intel and Altera simplify sensor integration for edge and physical AI",
+     "url": "https://www.industryemea.com/news/117258-intel-and-altera-simplify-sensor-integration-for-edge-and-physical-ai",
+     "date": "2026-11-12",
+     "summary": "Intel and Altera are developing a reference architecture that uses Altera FPGAs to bridge multi-protocol sensor streams to Intel processors for edge AI.",
+     "why": "Edge AI hardware.",
+     "id": "117258"
+    }
+   ],
+   "ids": [
+    "117367",
+    "117364",
+    "117254",
+    "117297",
+    "117288",
+    "117348",
+    "117258"
+   ]
+  },
+  {
+   "site": "Finland",
+   "domain": "engineering-suomi.com",
+   "url": "https://engineering-suomi.com/",
+   "group": "regional",
+   "lang": "fi",
+   "pages_checked": 2,
+   "picks": [
+    {
+     "rank": 1,
+     "title": "Wärtsilä toimittaa EPV Energialle uuden joustavan kaasumoottorivoimalaitoksen tasapainottamaan Suomen sähköjärjestelmää",
+     "url": "https://www.engineering-suomi.com/news/117324-w%C3%A4rtsil%C3%A4-toimittaa-epv-energialle-uuden-joustavan-kaasumoottorivoimalaitoksen-tasapainottamaan-suomen-s%C3%A4hk%C3%B6j%C3%A4rjestelm%C3%A4%C3%A4",
+     "date": "2026-11-13",
+     "summary": "Wärtsilä will supply EPV Energia a 43 MW gas-engine power plant in Lappeenranta to help balance the grid.",
+     "why": "Finnish company and grid.",
+     "id": "117324"
+    },
+    {
+     "rank": 2,
+     "title": "Valmet toimittaa Valmet DNAe -automaation ja sähköistyksen modernisoinnin Kainuun Voiman kolmelle vesivoimalaitokselle",
+     "url": "https://www.engineering-suomi.com/news/116983-valmet-toimittaa-valmet-dnae-automaation-ja-s%C3%A4hk%C3%B6istyksen-modernisoinnin-kainuun-voiman-kolmelle-vesivoimalaitokselle",
+     "date": "2026-11-05",
+     "summary": "Valmet will replace a competitor's automation at three Kainuu Voima hydropower plants with its DNAe platform.",
+     "why": "Finnish company and customer.",
+     "id": "116983"
+    },
+    {
+     "rank": 3,
+     "title": "Datakeskusten sähkönsyöttö ja suurjänniteratkaisut tekoälyinfrastruktuurin energiatehokkaassa toteutuksessa",
+     "url": "https://www.engineering-suomi.com/news/115631-datakeskusten-s%C3%A4hk%C3%B6nsy%C3%B6tt%C3%B6-ja-suurj%C3%A4nniteratkaisut-teko%C3%A4lyinfrastruktuurin-energiatehokkaassa-toteutuksessa",
+     "date": "2026-10-05",
+     "summary": "Caverion will build a 70 MW substation for Nebius's AI data center in Mäntsälä, Finland, due autumn 2027.",
+     "why": "Finnish AI data center build.",
+     "id": "115631"
+    },
+    {
+     "rank": 4,
+     "title": "Sähköasennuskalusteiden pakkausautomaatio ja materiaalitehokkuus tuotantologistiikassa",
+     "url": "https://www.engineering-suomi.com/news/116715-s%C3%A4hk%C3%B6asennuskalusteiden-pakkausautomaatio-ja-materiaalitehokkuus-tuotantologistiikassa",
+     "date": "2026-10-29",
+     "summary": "ABB is adding an automated packaging line at its Porvoo plant that weighs and checks boxes and cuts packaging material.",
+     "why": "Plant automation in Finland.",
+     "id": "116715"
+    },
+    {
+     "rank": 5,
+     "title": "Ethernet-APL:n käyttöönotto teollisessa sinkinjalostuksessa",
+     "url": "https://www.engineering-suomi.com/news/116028-ethernet-apl-n-k%C3%A4ytt%C3%B6%C3%B6notto-teollisessa-sinkinjalostuksessa",
+     "date": "2026-10-14",
+     "summary": "ABB and Boliden added Ethernet-APL field instruments to an existing System 800xA at the Kokkola zinc plant.",
+     "why": "Process industry upgrade in Finland.",
+     "id": "116028"
+    },
+    {
+     "rank": 6,
+     "title": "Mäntämoottorit konesalien kiinteistönverkon (behind-the-meter) sähköntuotannossa",
+     "url": "https://www.engineering-suomi.com/news/115692-m%C3%A4nt%C3%A4moottorit-konesalien-kiinteist%C3%B6nverkon-behind-the-meter-s%C3%A4hk%C3%B6ntuotannossa",
+     "date": "2026-10-06",
+     "summary": "Wärtsilä won an order for a 282 MW on-site gas-engine plant with 15 engines to supply a US data center campus.",
+     "why": "Big order for a Finnish manufacturer.",
+     "id": "115692"
+    }
+   ],
+   "ids": [
+    "117324",
+    "116983",
+    "115631",
+    "116715",
+    "116028",
+    "115692"
+   ]
+  },
+  {
+   "site": "France",
+   "domain": "industrieweb.fr",
+   "url": "https://industrieweb.fr/",
+   "group": "regional",
+   "lang": "fr",
+   "pages_checked": 2,
+   "picks": [
+    {
+     "rank": 1,
+     "title": "MCP for PLCnext Control ouvre les données d'automatisation aux agents IA",
+     "url": "https://www.industrieweb.fr/news/117364-mcp-for-plcnext-control-ouvre-les-donn%C3%A9es-d-automatisation-aux-agents-ia",
+     "date": "2026-11-14",
+     "summary": "Phoenix Contact's app gives AI agents standardized, controlled access to PLCnext automation data and diagnostics via MCP.",
+     "why": "Industrial AI agents.",
+     "id": "117364"
+    },
+    {
+     "rank": 2,
+     "title": "Siemens annonce un chiffre d'affaire en hausse pour 2026",
+     "url": "https://www.industrieweb.fr/news/117340-siemens-annonce-un-chiffre-d%E2%80%99affaire-en-hausse-pour-2026",
+     "date": "2026-11-13",
+     "summary": "Siemens reports 8% comparable revenue growth for fiscal 2026 and raises its medium-term growth targets.",
+     "why": "Key results from an industry giant.",
+     "id": "117340"
+    },
+    {
+     "rank": 3,
+     "title": "Onduleur moyenne tension ABB HiPerGuard pour DataCenters",
+     "url": "https://www.industrieweb.fr/news/117306-onduleur-moyenne-tension-abb-hiperguard-pour-datacenters",
+     "date": "2026-11-13",
+     "summary": "ABB's HiPerGuard medium-voltage UPS targets AI data centers with lower copper use, fewer losses and claimed 98% efficiency.",
+     "why": "AI data center power.",
+     "id": "117306"
+    },
+    {
+     "rank": 4,
+     "title": "Le Groupe Emitech internalise l'essai RS105 de tenue aux impulsions électromagnétiques",
+     "url": "https://www.industrieweb.fr/news/117248-le-groupe-emitech-internalise-l-essai-rs105-de-tenue-aux-impulsions-%C3%A9lectromagn%C3%A9tiques",
+     "date": "2026-11-12",
+     "summary": "Emitech now performs the MIL-STD-461H RS105 electromagnetic pulse test in-house at its Montigny-le-Bretonneux facility.",
+     "why": "French company investment.",
+     "id": "117248"
+    },
+    {
+     "rank": 5,
+     "title": "Visibilité des actifs OT et savoir-faire en automatisation",
+     "url": "https://www.industrieweb.fr/news/117319-visibilit%C3%A9-des-actifs-ot-et-savoir-faire-en-automatisation",
+     "date": "2026-11-13",
+     "summary": "Mitsubishi Electric and Nozomi Networks partner to offer European industrials OT asset inventory, risk assessment and incident response.",
+     "why": "Cybersecurity for industry.",
+     "id": "117319"
+    },
+    {
+     "rank": 6,
+     "title": "Le robot de peinture offre davantage de flexibilité",
+     "url": "https://www.industrieweb.fr/news/117201-nouveau-robot-de-peinture-industriel-p-55-15-21a-par-fanuc",
+     "date": "2026-11-10",
+     "summary": "Fanuc's P-55/15-21A paint robot adds flexible mounting, an ATEX Zone 1 purge cabinet and the new R-50i controller.",
+     "why": "Robot launch.",
+     "id": "117201"
+    },
+    {
+     "rank": 7,
+     "title": "Knauf Industries étend ses capacités de thermoformage",
+     "url": "https://www.industrieweb.fr/news/117175-knauf-industries-%C3%A9tend-ses-capacit%C3%A9s-de-thermoformage",
+     "date": "2026-11-10",
+     "summary": "Knauf Industries is investing €1.3 million in a second thermoforming site at Torcé to add capacity.",
+     "why": "French plant investment.",
+     "id": "117175"
+    }
+   ],
+   "ids": [
+    "117364",
+    "117340",
+    "117306",
+    "117248",
+    "117319",
+    "117201",
+    "117175"
+   ]
+  },
+  {
+   "site": "Germany",
+   "domain": "konstruktion-industrie.com",
+   "url": "https://konstruktion-industrie.com/",
+   "group": "regional",
+   "lang": "de",
+   "pages_checked": 2,
+   "picks": [
+    {
+     "rank": 1,
+     "title": "Bosch richtet den Unternehmensbereich Mobility neu aus",
+     "url": "https://www.konstruktion-industrie.com/news/117367-bosch-richtet-den-unternehmensbereich-mobility-neu-aus",
+     "date": "2026-11-14",
+     "summary": "Bosch is converting its German Mobility unit and central service functions into separate GmbH subsidiaries from August 1, 2027.",
+     "why": "Major German corporate news.",
+     "id": "117367"
+    },
+    {
+     "rank": 2,
+     "title": "MCP for PLCnext Control öffnet Automatisierungsdaten für KI-Agenten",
+     "url": "https://www.konstruktion-industrie.com/news/117364-mcp-for-plcnext-control-%C3%B6ffnet-automatisierungsdaten-f%C3%BCr-ki-agenten",
+     "date": "2026-11-14",
+     "summary": "Phoenix Contact's app runs on the PLCnext Control and gives AI agents controlled access to automation data through MCP.",
+     "why": "German company, industrial AI.",
+     "id": "117364"
+    },
+    {
+     "rank": 3,
+     "title": "Hydraulik-Baugruppen im Browser konfigurieren und kalkulieren",
+     "url": "https://www.konstruktion-industrie.com/news/117336-hydraulik-baugruppen-im-browser-konfigurieren-und-kalkulieren",
+     "date": "2026-11-13",
+     "summary": "R+L Hydraulics' browser-based Fluidware App configures hydraulic assemblies, generates drawings and calculates prices in real time.",
+     "why": "Practical tool for design engineers.",
+     "id": "117336"
+    },
+    {
+     "rank": 4,
+     "title": "Siemens präsentiert intelligentes Edelstahl-Ventil für die Flüssigkeitskühlung",
+     "url": "https://www.konstruktion-industrie.com/news/117297-siemens-pr%C3%A4sentiert-intelligentes-edelstahl-ventil-f%C3%BCr-die-fl%C3%BCssigkeitsk%C3%BChlung",
+     "date": "2026-11-12",
+     "summary": "Siemens added a stainless-steel Intelligent Valve for direct-to-chip liquid cooling in AI and HPC data centers.",
+     "why": "Data center cooling.",
+     "id": "117297"
+    },
+    {
+     "rank": 5,
+     "title": "igus stellt Überkopf-Ladesystem e-tract für Elektromobilität vor",
+     "url": "https://www.konstruktion-industrie.com/news/117348-igus-stellt-%C3%BCberkopf-ladesystem-e-tract-f%C3%BCr-elektromobilit%C3%A4t-vor",
+     "date": "2026-11-13",
+     "summary": "igus's overhead charging system lifts heavy megawatt cables to vehicle height and retracts them when unused.",
+     "why": "German company innovation.",
+     "id": "117348"
+    },
+    {
+     "rank": 6,
+     "title": "Li-Fi-Lösungen für drahtlose Echtzeitkommunikation in der Industrieautomation",
+     "url": "https://www.konstruktion-industrie.com/news/117318-li-fi-l%C3%B6sungen-f%C3%BCr-drahtlose-echtzeitkommunikation-in-der-industrieautomation",
+     "date": "2026-11-13",
+     "summary": "Fraunhofer IPMS will demonstrate light-based wireless data links at SPS 2026 as a radio alternative for time-critical communication.",
+     "why": "SPS trade fair, German research.",
+     "id": "117318"
+    },
+    {
+     "rank": 7,
+     "title": "OT-Asset-Transparenz kombiniert mit Industrieautomations-Know-how",
+     "url": "https://www.konstruktion-industrie.com/news/117319-ot-asset-transparenz-kombiniert-mit-industrieautomations-know-how",
+     "date": "2026-11-13",
+     "summary": "Mitsubishi Electric and Nozomi Networks will offer European manufacturers continuous OT asset inventory, risk scoring and incident response.",
+     "why": "Cybersecurity.",
+     "id": "117319"
+    }
+   ],
+   "ids": [
+    "117367",
+    "117364",
+    "117336",
+    "117297",
+    "117348",
+    "117318",
+    "117319"
+   ]
+  },
+  {
+   "site": "Hungary",
+   "domain": "magyar-mernoki.com",
+   "url": "https://magyar-mernoki.com/",
+   "group": "regional",
+   "lang": "hu",
+   "pages_checked": 2,
+   "picks": [
+    {
+     "rank": 1,
+     "title": "Fuvarozónak készült, ma már autópályákat épít",
+     "url": "https://www.magyar-mernoki.com/news/117108-fuvaroz%C3%B3nak-k%C3%A9sz%C3%BClt,-ma-m%C3%A1r-aut%C3%B3p%C3%A1ly%C3%A1kat-%C3%A9p%C3%ADt",
+     "date": "2026-11-09",
+     "summary": "Hungarian earthworks contractor Csanád-Trans grew from a trucking business into a 28-employee firm, now adding a GPS-guided Hyundai excavator.",
+     "why": "Local Hungarian success story.",
+     "id": "117108"
+    },
+    {
+     "rank": 2,
+     "title": "A Schneider Electric szoftveralapú kapcsolóberendezéssel gyorsítja az adatközpontok építését",
+     "url": "https://www.magyar-mernoki.com/news/116822-a-schneider-electric-szoftveralap%C3%BA-kapcsol%C3%B3berendez%C3%A9ssel-gyors%C3%ADtja-az-adatk%C3%B6zpontok-%C3%A9p%C3%ADt%C3%A9s%C3%A9t",
+     "date": "2026-11-02",
+     "summary": "Schneider Electric unveiled a software-defined medium-voltage switchgear that separates control from hardware for remote upgrades.",
+     "why": "Data center build speed.",
+     "id": "116822"
+    },
+    {
+     "rank": 3,
+     "title": "A Tungaloy és az NTK Cutting Tools bejelenti egyesülését, egyesítve egymást kiegészítő erősségeiket",
+     "url": "https://www.magyar-mernoki.com/news/115057-a-tungaloy-%C3%A9s-az-ntk-cutting-tools-bejelenti-egyes%C3%BCl%C3%A9s%C3%A9t,-egyes%C3%ADtve-egym%C3%A1st-kieg%C3%A9sz%C3%ADt%C5%91-er%C5%91ss%C3%A9geiket",
+     "date": "2026-09-22",
+     "summary": "Tungaloy and NTK Cutting Tools plan to merge effective 1 January 2027, with NTK continuing as a division brand.",
+     "why": "Cutting-tool industry merger.",
+     "id": "115057"
+    },
+    {
+     "rank": 4,
+     "title": "A HD Construction Equipment megállapodást kötött a Manitou Grouppal",
+     "url": "https://www.magyar-mernoki.com/news/115067-a-hd-construction-equipment-meg%C3%A1llapod%C3%A1st-k%C3%B6t%C3%B6tt-a-manitou-grouppal",
+     "date": "2026-09-24",
+     "summary": "HD Construction Equipment and Manitou Group agreed to distribute each other's compact machines, targeting €825 million in sales by 2030.",
+     "why": "Construction machinery deal.",
+     "id": "115067"
+    },
+    {
+     "rank": 5,
+     "title": "Schneider Electric támogatja a divatipar megújuló energiás átállását",
+     "url": "https://www.magyar-mernoki.com/news/116045-schneider-electric-t%C3%A1mogatja-a-divatipar-meg%C3%BAjul%C3%B3-energi%C3%A1s-%C3%A1t%C3%A1ll%C3%A1s%C3%A1t",
+     "date": "2026-10-14",
+     "summary": "Levi Strauss, Marks & Spencer and Schneider Electric's advisory arm launched a program to help apparel suppliers move to renewable power.",
+     "why": "Sustainability programme.",
+     "id": "116045"
+    },
+    {
+     "rank": 6,
+     "title": "Elszigetelt adatokból valódi üzleti érték",
+     "url": "https://www.magyar-mernoki.com/news/115529-elszigetelt-adatokb%C3%B3l-val%C3%B3di-%C3%BCzleti-%C3%A9rt%C3%A9k",
+     "date": "2026-10-19",
+     "summary": "Eplan argues that shared engineering data, supported by cloud, AI and Asset Administration Shell standards, connects the automation value chain.",
+     "why": "Engineering data strategy.",
+     "id": "115529"
+    }
+   ],
+   "ids": [
+    "117108",
+    "116822",
+    "115057",
+    "115067",
+    "116045",
+    "115529"
+   ]
+  }
+ ],
+ "source": "Selected by Claude from the first two pages (feed) of each website"
+}
