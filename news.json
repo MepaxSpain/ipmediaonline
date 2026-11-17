@@ -17,7 +17,8 @@
      "date": "2026-11-14",
      "summary": "Phoenix Contact's app gives AI agents controlled, standardized access to PLCnext automation data through the Model Context Protocol.",
      "why": "Industrial AI agents are the hot topic; broad appeal.",
-     "id": "117364"
+     "id": "117364",
+     "topic": "Phoenix Contact abre os dados do PLCnext a agentes de IA com acesso controlado."
     },
     {
      "rank": 2,
@@ -26,7 +27,8 @@
      "date": "2026-11-12",
      "summary": "ABB Robotics and NVIDIA partner on a training program for physical AI and robotics simulation using RobotStudio and Omniverse.",
      "why": "Big-name partnership on robotics and AI.",
-     "id": "117292"
+     "id": "117292",
+     "topic": "ABB e NVIDIA lançam formação em simulação e IA física para robótica."
     },
     {
      "rank": 3,
@@ -35,7 +37,8 @@
      "date": "2026-11-05",
      "summary": "AGCO's Ibirubá plant uses enclosed robotic welding cells and automated handling to reduce workers' exposure to hazards and strain.",
      "why": "Brazilian plant case, concrete and local.",
-     "id": "117029"
+     "id": "117029",
+     "topic": "A AGCO automatiza a soldagem robotizada para reduzir riscos em máquinas agrícolas."
     },
     {
      "rank": 4,
@@ -44,7 +47,8 @@
      "date": "2026-11-06",
      "summary": "Rockwell Automation and Braskem use the SecureOT platform to build an OT asset inventory and manage vulnerabilities across plants.",
      "why": "Cybersecurity story with a Brazilian customer.",
-     "id": "117086"
+     "id": "117086",
+     "topic": "Rockwell e Braskem protegem os ativos de TO com monitoramento de vulnerabilidades."
     },
     {
      "rank": 5,
@@ -53,7 +57,8 @@
      "date": "2026-11-10",
      "summary": "Mitsubishi Electric Brasil deploys PLCs, drives, HMIs and SCADA in water and energy infrastructure to cut losses and energy use.",
      "why": "Local infrastructure project.",
-     "id": "117186"
+     "id": "117186",
+     "topic": "A Mitsubishi Electric automatiza redes de água e energia para reduzir perdas."
     },
     {
      "rank": 6,
@@ -62,7 +67,8 @@
      "date": "2026-11-11",
      "summary": "Siemens and NVIDIA use a digital twin and synthetic images to calibrate optical inspection of circuit boards before physical production.",
      "why": "Digital twin and AI inspection, strong technical interest.",
-     "id": "117228"
+     "id": "117228",
+     "topic": "Siemens e NVIDIA calibram a inspeção de placas eletrônicas com gêmeos digitais."
     }
    ],
    "ids": [
@@ -89,7 +95,8 @@
      "date": "2026-11-13",
      "summary": "Kawasaki's new automated line at Harima Works makes double-wall hydrogen piping and has shipped its first spool for a Japanese liquefied hydrogen project.",
      "why": "Hydrogen supply chain milestone in the region.",
-     "id": "117352"
+     "id": "117352",
+     "topic": "Kawasaki automates production of double-wall piping for liquefied hydrogen plants."
     },
     {
      "rank": 2,
@@ -98,7 +105,8 @@
      "date": "2026-11-09",
      "summary": "PowerGrid Corporation of India and GE Vernova installed an 800 kV converter system with eLumina controls to connect renewable power to the grid.",
      "why": "Large grid project in India.",
-     "id": "117118"
+     "id": "117118",
+     "topic": "GE Vernova and PowerGrid install an 800 kV link to bring renewables onto India's grid."
     },
     {
      "rank": 3,
@@ -107,7 +115,8 @@
      "date": "2026-11-09",
      "summary": "Equinix's new Singapore data center pairs liquid cooling and renewable energy with global network connectivity.",
      "why": "Data center growth in the region.",
-     "id": "117099"
+     "id": "117099",
+     "topic": "Equinix opens a liquid-cooled, renewable-powered data center in Singapore."
     },
     {
      "rank": 4,
@@ -116,7 +125,8 @@
      "date": "2026-11-06",
      "summary": "ZEISS's new metrology robot offers lab-grade measurement accuracy and reach without external tracking equipment.",
      "why": "Quality inspection product launch.",
-     "id": "117044"
+     "id": "117044",
+     "topic": "ZEISS launches a metrology robot with lab-grade accuracy on the shop floor."
     },
     {
      "rank": 5,
@@ -125,7 +135,8 @@
      "date": "2026-11-06",
      "summary": "Siemens Mobility is working with SBS Transit and ST Engineering on digital signalling and rail maintenance projects across Asia-Pacific.",
      "why": "Rail partnerships in Southeast Asia.",
-     "id": "117039"
+     "id": "117039",
+     "topic": "Siemens deepens rail partnerships in Asia-Pacific on digital signalling and maintenance."
     },
     {
      "rank": 6,
@@ -134,7 +145,8 @@
      "date": "2026-11-04",
      "summary": "Stora Enso and Shanshan Technology are building a demonstration line in Ningbo to test lignin-based anodes for sodium-ion batteries.",
      "why": "Battery technology beyond lithium.",
-     "id": "116695"
+     "id": "116695",
+     "topic": "Stora Enso tests lignin-based anodes for sodium-ion batteries in China."
     },
     {
      "rank": 7,
@@ -143,7 +155,8 @@
      "date": "2026-11-14",
      "summary": "Phoenix Contact's new app lets AI agents securely access automation data and functions through a standard protocol.",
      "why": "Industrial AI agents, general interest.",
-     "id": "117364"
+     "id": "117364",
+     "topic": "Phoenix Contact gives AI agents secure access to PLCnext automation data."
     }
    ],
    "ids": [
@@ -171,7 +184,8 @@
      "date": "2026-11-05",
      "summary": "Fortescue fuelled an ammonia-powered bulk carrier with green ammonia at Port Hedland, Australia's first such transfer.",
      "why": "Australian first in low-carbon shipping.",
-     "id": "116988"
+     "id": "116988",
+     "topic": "Fortescue completes Australia's first green ammonia bunkering at Port Hedland."
     },
     {
      "rank": 2,
@@ -180,7 +194,8 @@
      "date": "2026-10-20",
      "summary": "Fortescue sold 40 tonnes of cleaned copper concentrate, showing its low-temperature arsenic removal technology is commercially viable.",
      "why": "Mining technology breakthrough by a local company.",
-     "id": "116289"
+     "id": "116289",
+     "topic": "Fortescue proves its arsenic-removal process by selling cleaned copper concentrate."
     },
     {
      "rank": 3,
@@ -189,7 +204,8 @@
      "date": "2026-10-23",
      "summary": "Ingeteam and National Electricity Market operators use battery hybridisation to reduce curtailment of utility-scale solar.",
      "why": "Energy storage for the Australian grid.",
-     "id": "116490"
+     "id": "116490",
+     "topic": "Batteries paired with solar plants help cut curtailment on Australia's grid."
     },
     {
      "rank": 4,
@@ -198,7 +214,8 @@
      "date": "2026-10-21",
      "summary": "Jinko ESS and Ingeteam are deploying power conversion systems in Australian hybrid and standalone grid storage projects.",
      "why": "Local storage projects.",
-     "id": "116373"
+     "id": "116373",
+     "topic": "Jinko ESS and Ingeteam supply power conversion for Australian grid storage."
     },
     {
      "rank": 5,
@@ -207,7 +224,8 @@
      "date": "2026-10-21",
      "summary": "Mitsubishi Electric developed a machining architecture that lets humanoid robots work directly with CNC machine tools using physical AI.",
      "why": "Robotics and physical AI trend.",
-     "id": "116346"
+     "id": "116346",
+     "topic": "Mitsubishi Electric teaches humanoid robots to work alongside CNC machines."
     },
     {
      "rank": 6,
@@ -216,7 +234,8 @@
      "date": "2026-11-06",
      "summary": "ZEISS's TALOS metrology robot delivers lab-grade measurement accuracy and reach without external tracking systems.",
      "why": "Inspection product launch.",
-     "id": "117044"
+     "id": "117044",
+     "topic": "ZEISS launches a metrology robot with lab-grade accuracy on the shop floor."
     },
     {
      "rank": 7,
@@ -225,7 +244,8 @@
      "date": "2026-11-10",
      "summary": "Leica's new DMC-5 collects roughly a third more data than its predecessors, improving mapping coverage and flexibility.",
      "why": "Mapping and surveying product launch.",
-     "id": "117149"
+     "id": "117149",
+     "topic": "Leica's new DMC-5 camera captures about a third more mapping data."
     }
    ],
    "ids": [
@@ -253,7 +273,8 @@
      "date": "2026-11-09",
      "summary": "KNF's Nautilus tool lets customers simulate demanding fluid systems and choose suitable diaphragm pumps from its Smooth Flow range.",
      "why": "Useful free engineering tool.",
-     "id": "116991"
+     "id": "116991",
+     "topic": "KNF lanceert Nautilus om vloeistofsystemen te simuleren en de juiste pomp te kiezen."
     },
     {
      "rank": 2,
@@ -262,7 +283,8 @@
      "date": "2026-10-15",
      "summary": "Reichelt reports fewer production stoppages thanks to better component availability, but high energy and logistics costs weigh on Dutch manufacturers.",
      "why": "Dutch market outlook.",
-     "id": "116123"
+     "id": "116123",
+     "topic": "Reichelt ziet minder stilstand, maar zwakkere vooruitzichten voor de Nederlandse industrie."
     },
     {
      "rank": 3,
@@ -271,7 +293,8 @@
      "date": "2026-10-15",
      "summary": "Vattenfall and Royal Vopak agreed on a tolling arrangement for large-scale battery storage near Meeden to manage grid congestion.",
      "why": "Grid congestion is a major Dutch issue.",
-     "id": "116099"
+     "id": "116099",
+     "topic": "Vattenfall en Vopak bouwen aan batterijopslag om netcongestie te verlichten."
     },
     {
      "rank": 4,
@@ -280,7 +303,8 @@
      "date": "2026-10-19",
      "summary": "Eplan combines AI, cloud services and open standards with engineering software to connect the whole process chain.",
      "why": "Engineering data and AI.",
-     "id": "115529"
+     "id": "115529",
+     "topic": "Eplan zet engineeringdata om in waarde met AI en open standaarden."
     },
     {
      "rank": 5,
@@ -289,7 +313,8 @@
      "date": "2026-11-12",
      "summary": "FLIR will show how it turns inspection and monitoring data into asset intelligence at events in Antwerp and Cologne.",
      "why": "Event in Antwerp, relevant for Benelux.",
-     "id": "117174"
+     "id": "117174",
+     "topic": "FLIR toont op twee Europese beurzen hoe inspectiedata assetbeheer verbetert."
     },
     {
      "rank": 6,
@@ -298,7 +323,8 @@
      "date": "2026-10-30",
      "summary": "Artec, a Rheinmetall and KNDS joint venture, supplies modular 8x8 platforms to standardize defense infrastructure.",
      "why": "European defence industry story.",
-     "id": "116800"
+     "id": "116800",
+     "topic": "Artec levert modulaire 8x8-platforms voor Europese strijdkrachten."
     },
     {
      "rank": 7,
@@ -307,7 +333,8 @@
      "date": "2026-10-28",
      "summary": "Siemens expands its semiconductor-based SENTRON ECPD line and introduces refurbished SIRIUS 3RW5 soft starters.",
      "why": "Circular economy angle.",
-     "id": "116673"
+     "id": "116673",
+     "topic": "Siemens breidt de halfgeleiderbeveiliging uit en biedt gereviseerde softstarters aan."
     }
    ],
    "ids": [
@@ -335,7 +362,8 @@
      "date": "2026-11-10",
      "summary": "NXP introduced a unified robotics platform with pre-validated hardware and open-source software to shorten integration for drones and mobile robots.",
      "why": "Robotics platform, strong interest in China.",
-     "id": "117155"
+     "id": "117155",
+     "topic": "恩智浦推出统一机器人平台，缩短无人机与移动机器人的集成周期。"
     },
     {
      "rank": 2,
@@ -344,7 +372,8 @@
      "date": "2026-11-05",
      "summary": "Siemens signed a letter of intent with Sinopec's international procurement arm to supply electrification, automation and digital technologies for petrochemical projects.",
      "why": "Deal with a major Chinese company.",
-     "id": "117018"
+     "id": "117018",
+     "topic": "西门子与中石化国际事业公司就石化项目电气化与自动化达成合作意向。"
     },
     {
      "rank": 3,
@@ -353,7 +382,8 @@
      "date": "2026-10-21",
      "summary": "Schaeffler opened a Taicang lighthouse plant that assembles humanoid robot joint actuators using a digital twin and cobots.",
      "why": "Humanoid robot manufacturing in China.",
-     "id": "116365"
+     "id": "116365",
+     "topic": "舍弗勒太仓灯塔工厂用数字孪生和协作机器人装配人形机器人关节执行器。"
     },
     {
      "rank": 4,
@@ -362,7 +392,8 @@
      "date": "2026-11-05",
      "summary": "Renesas' RZ/T2N MPU integrates four-axis motor control, industrial Ethernet and Linux cores on one chip for compact robots and servo systems.",
      "why": "Chip launch for automation and robotics.",
-     "id": "117017"
+     "id": "117017",
+     "topic": "瑞萨RZ/T2N处理器在单芯片上集成电机控制、工业以太网和Linux内核。"
     },
     {
      "rank": 5,
@@ -371,7 +402,8 @@
      "date": "2026-10-22",
      "summary": "Siemens and NVIDIA combine digital twins and synthetic images for automated optical inspection, reportedly cutting manual programming effort by 85%.",
      "why": "Concrete efficiency figure for electronics makers.",
-     "id": "116447"
+     "id": "116447",
+     "topic": "西门子与英伟达用数字孪生和合成图像优化电路板光学检测。"
     },
     {
      "rank": 6,
@@ -380,7 +412,8 @@
      "date": "2026-10-28",
      "summary": "Manitowoc will show compact tower crane technology at bauma China 2026, including a collision-avoidance control system.",
      "why": "Trade show coverage in Shanghai.",
-     "id": "116624"
+     "id": "116624",
+     "topic": "马尼托瓦克将在上海宝马展展示紧凑型塔机与防碰撞系统。"
     }
    ],
    "ids": [
@@ -407,7 +440,8 @@
      "date": "2026-10-28",
      "summary": "Siemens and Equans are building high-power highway charging hubs in the Czech Republic, combining fast charging, battery storage and grid stabilization.",
      "why": "Czech infrastructure project.",
-     "id": "116639"
+     "id": "116639",
+     "topic": "Siemens a Equans staví v Česku nabíjecí huby s bateriemi pro elektrické nákladní vozy."
     },
     {
      "rank": 2,
@@ -416,7 +450,8 @@
      "date": "2026-10-06",
      "summary": "RICAIP Testbed Praha and Siemens offer a service that tests industrial control networks for cyber resilience using passive monitoring.",
      "why": "Local Prague testbed, cybersecurity.",
-     "id": "115704"
+     "id": "115704",
+     "topic": "RICAIP a Siemens nabízejí test kybernetické odolnosti průmyslových sítí."
     },
     {
      "rank": 3,
@@ -425,7 +460,8 @@
      "date": "2026-10-05",
      "summary": "Schneider Electric launched factory-built power skids and modules delivering up to 2.5 MW per container for AI data centers.",
      "why": "AI infrastructure.",
-     "id": "115645"
+     "id": "115645",
+     "topic": "Schneider Electric představuje modulární napájení pro datová centra s AI."
     },
     {
      "rank": 4,
@@ -434,7 +470,8 @@
      "date": "2026-11-11",
      "summary": "Sandvik Coromant launched a tapered barrel end mill that speeds up 3D machining of turbine parts with fewer toolpath passes.",
      "why": "Machining tool, strong for a Czech engineering audience.",
-     "id": "117234"
+     "id": "117234",
+     "topic": "Sandvik Coromant uvádí kuželovou frézu pro rychlejší obrábění lopatek turbín."
     },
     {
      "rank": 5,
@@ -443,7 +480,8 @@
      "date": "2026-09-30",
      "summary": "Make4Green's off-grid e-bike charging stations use a Siemens S7-1200 G2 PLC to balance solar, wind and battery power.",
      "why": "Concrete automation case.",
-     "id": "115461"
+     "id": "115461",
+     "topic": "Ostrovní nabíjecí stanice pro elektrokola využívají slunce, vítr a baterie."
     },
     {
      "rank": 6,
@@ -452,7 +490,8 @@
      "date": "2026-09-30",
      "summary": "Britvic used Alfa Laval's AI-based Clariot monitoring to catch a developing pump fault early and avoid about six hours of downtime.",
      "why": "Predictive maintenance with measurable result.",
-     "id": "115399"
+     "id": "115399",
+     "topic": "Alfa Laval díky AI odhalila poruchu čerpadla a ušetřila šest hodin prostoje."
     }
    ],
    "ids": [
@@ -479,7 +518,8 @@
      "date": "2026-11-10",
      "summary": "Stadler's battery-electric RS Zero trains will replace diesel units on the Nærumbane in Denmark, starting in 2031.",
      "why": "Danish rail project.",
-     "id": "117188"
+     "id": "117188",
+     "topic": "Stadler dodá baterielektriske tog, der erstatter diesel på Nærumbanen fra 2031."
     },
     {
      "rank": 2,
@@ -488,7 +528,8 @@
      "date": "2026-11-05",
      "summary": "Vattenfall signed concession agreements for the Hesselø and Holmsland offshore wind projects, totaling at least 1.8 GW.",
      "why": "Major Danish energy news.",
-     "id": "116998"
+     "id": "116998",
+     "topic": "Vattenfall får koncession til havvindprojekter med mindst 1,8 GW."
     },
     {
      "rank": 3,
@@ -497,7 +538,8 @@
      "date": "2026-10-02",
      "summary": "ABB's HiPerGuard medium-voltage UPS will power the DDC1 colocation data center in Esbjerg, planned for 2027.",
      "why": "Local data center.",
-     "id": "115588"
+     "id": "115588",
+     "topic": "ABB leverer mellemspændings-UPS til et AI-datacenter i Esbjerg."
     },
     {
      "rank": 4,
@@ -506,7 +548,8 @@
      "date": "2026-10-28",
      "summary": "Sweco and Aalborg Forsyning signed a framework agreement to modernize district heating and move away from coal-based heat.",
      "why": "Danish district heating.",
-     "id": "116657"
+     "id": "116657",
+     "topic": "Sweco og Aalborg Forsyning moderniserer fjernvarmen og dropper kul."
     },
     {
      "rank": 5,
@@ -515,7 +558,8 @@
      "date": "2026-10-29",
      "summary": "Siemens and NVIDIA combine accelerated computing and simulation tools to apply industrial AI across product development, factories and data centers.",
      "why": "Industrial AI partnership.",
-     "id": "116748"
+     "id": "116748",
+     "topic": "Siemens og NVIDIA bruger industriel AI i produktion og datacentre."
     },
     {
      "rank": 6,
@@ -524,7 +568,8 @@
      "date": "2026-10-07",
      "summary": "MyDefence's Wingman Edge is a lightweight, passive body-worn drone detector that uses on-device AI to spot unknown radio signals.",
      "why": "Danish defence-tech company.",
-     "id": "115741"
+     "id": "115741",
+     "topic": "MyDefence lancerer en bærbar, passiv dronedetektor med AI."
     }
    ],
    "ids": [
@@ -551,7 +596,8 @@
      "date": "2026-11-14",
      "summary": "Bosch is moving its Mobility sector and central service units in Germany into separate GmbH subsidiaries starting 1 August 2027.",
      "why": "Major corporate restructuring.",
-     "id": "117367"
+     "id": "117367",
+     "topic": "Bosch splits its Mobility sector into separate German subsidiaries from 2027."
     },
     {
      "rank": 2,
@@ -560,7 +606,8 @@
      "date": "2026-11-14",
      "summary": "Phoenix Contact's app runs on PLCnext controllers and gives compatible AI agents controlled access to automation data via the Model Context Protocol.",
      "why": "Industrial AI agents.",
-     "id": "117364"
+     "id": "117364",
+     "topic": "Phoenix Contact gives AI agents controlled access to PLCnext automation data."
     },
     {
      "rank": 3,
@@ -569,7 +616,8 @@
      "date": "2026-11-12",
      "summary": "Kawasaki and RWE opened a 30 MW-class gas turbine at Emsland in Germany that can run on anything from natural gas to 100% hydrogen.",
      "why": "Hydrogen power milestone in Europe.",
-     "id": "117254"
+     "id": "117254",
+     "topic": "Kawasaki and RWE open a 30 MW turbine in Germany that can burn up to 100% hydrogen."
     },
     {
      "rank": 4,
@@ -578,7 +626,8 @@
      "date": "2026-11-12",
      "summary": "Siemens added a stainless steel Intelligent Valve for direct-to-chip rack cooling in AI data centres and HPC.",
      "why": "Data center cooling demand.",
-     "id": "117297"
+     "id": "117297",
+     "topic": "Siemens adds a stainless steel valve for liquid cooling in AI data centres."
     },
     {
      "rank": 5,
@@ -587,7 +636,8 @@
      "date": "2026-11-12",
      "summary": "Mitsubishi Electric Europe and Nozomi Networks partner to offer OT asset inventory, risk scoring and guided incident response.",
      "why": "Cybersecurity partnership for European industry.",
-     "id": "117288"
+     "id": "117288",
+     "topic": "Mitsubishi Electric and Nozomi Networks team up on OT asset visibility and security."
     },
     {
      "rank": 6,
@@ -596,7 +646,8 @@
      "date": "2026-11-13",
      "summary": "igus's e-tract DC lifts heavy megawatt charging cables off the ground, reducing ergonomic strain, vehicle damage and copper theft.",
      "why": "Truck charging innovation.",
-     "id": "117348"
+     "id": "117348",
+     "topic": "igus presents an overhead charging system for heavy electric vehicles."
     },
     {
      "rank": 7,
@@ -605,7 +656,8 @@
      "date": "2026-11-12",
      "summary": "Intel and Altera are developing a reference architecture that uses Altera FPGAs to bridge multi-protocol sensor streams to Intel processors for edge AI.",
      "why": "Edge AI hardware.",
-     "id": "117258"
+     "id": "117258",
+     "topic": "Intel and Altera simplify sensor integration for edge and physical AI."
     }
    ],
    "ids": [
@@ -633,7 +685,8 @@
      "date": "2026-11-13",
      "summary": "Wärtsilä will supply EPV Energia a 43 MW gas-engine power plant in Lappeenranta to help balance the grid.",
      "why": "Finnish company and grid.",
-     "id": "117324"
+     "id": "117324",
+     "topic": "Wärtsilä toimittaa Lappeenrantaan kaasumoottorivoimalan sähköjärjestelmän tasapainottamiseen."
     },
     {
      "rank": 2,
@@ -642,7 +695,8 @@
      "date": "2026-11-05",
      "summary": "Valmet will replace a competitor's automation at three Kainuu Voima hydropower plants with its DNAe platform.",
      "why": "Finnish company and customer.",
-     "id": "116983"
+     "id": "116983",
+     "topic": "Valmet modernisoi kolmen Kainuun Voiman vesivoimalaitoksen automaation."
     },
     {
      "rank": 3,
@@ -651,7 +705,8 @@
      "date": "2026-10-05",
      "summary": "Caverion will build a 70 MW substation for Nebius's AI data center in Mäntsälä, Finland, due autumn 2027.",
      "why": "Finnish AI data center build.",
-     "id": "115631"
+     "id": "115631",
+     "topic": "Caverion rakentaa 70 MW:n sähköaseman Nebiuksen tekoälydatakeskukselle Mäntsälään."
     },
     {
      "rank": 4,
@@ -660,7 +715,8 @@
      "date": "2026-10-29",
      "summary": "ABB is adding an automated packaging line at its Porvoo plant that weighs and checks boxes and cuts packaging material.",
      "why": "Plant automation in Finland.",
-     "id": "116715"
+     "id": "116715",
+     "topic": "ABB automatisoi pakkauslinjan Porvoon tehtaalla ja vähentää pakkausmateriaalia."
     },
     {
      "rank": 5,
@@ -669,7 +725,8 @@
      "date": "2026-10-14",
      "summary": "ABB and Boliden added Ethernet-APL field instruments to an existing System 800xA at the Kokkola zinc plant.",
      "why": "Process industry upgrade in Finland.",
-     "id": "116028"
+     "id": "116028",
+     "topic": "ABB ja Boliden ottivat Ethernet-APL:n käyttöön Kokkolan sinkkitehtaalla."
     },
     {
      "rank": 6,
@@ -678,7 +735,8 @@
      "date": "2026-10-06",
      "summary": "Wärtsilä won an order for a 282 MW on-site gas-engine plant with 15 engines to supply a US data center campus.",
      "why": "Big order for a Finnish manufacturer.",
-     "id": "115692"
+     "id": "115692",
+     "topic": "Wärtsilä toimittaa 282 MW:n mäntämoottorivoimalan yhdysvaltalaiselle datakeskukselle."
     }
    ],
    "ids": [
@@ -705,7 +763,8 @@
      "date": "2026-11-14",
      "summary": "Phoenix Contact's app gives AI agents standardized, controlled access to PLCnext automation data and diagnostics via MCP.",
      "why": "Industrial AI agents.",
-     "id": "117364"
+     "id": "117364",
+     "topic": "Phoenix Contact ouvre les données PLCnext aux agents IA de façon contrôlée."
     },
     {
      "rank": 2,
@@ -714,7 +773,8 @@
      "date": "2026-11-13",
      "summary": "Siemens reports 8% comparable revenue growth for fiscal 2026 and raises its medium-term growth targets.",
      "why": "Key results from an industry giant.",
-     "id": "117340"
+     "id": "117340",
+     "topic": "Siemens annonce une croissance de 8 % et relève ses objectifs à moyen terme."
     },
     {
      "rank": 3,
@@ -723,7 +783,8 @@
      "date": "2026-11-13",
      "summary": "ABB's HiPerGuard medium-voltage UPS targets AI data centers with lower copper use, fewer losses and claimed 98% efficiency.",
      "why": "AI data center power.",
-     "id": "117306"
+     "id": "117306",
+     "topic": "ABB lance un onduleur moyenne tension pour les datacenters IA."
     },
     {
      "rank": 4,
@@ -732,7 +793,8 @@
      "date": "2026-11-12",
      "summary": "Emitech now performs the MIL-STD-461H RS105 electromagnetic pulse test in-house at its Montigny-le-Bretonneux facility.",
      "why": "French company investment.",
-     "id": "117248"
+     "id": "117248",
+     "topic": "Emitech réalise en interne l'essai d'impulsions électromagnétiques RS105."
     },
     {
      "rank": 5,
@@ -741,7 +803,8 @@
      "date": "2026-11-13",
      "summary": "Mitsubishi Electric and Nozomi Networks partner to offer European industrials OT asset inventory, risk assessment and incident response.",
      "why": "Cybersecurity for industry.",
-     "id": "117319"
+     "id": "117319",
+     "topic": "Mitsubishi Electric et Nozomi Networks s'associent pour sécuriser les actifs OT."
     },
     {
      "rank": 6,
@@ -750,7 +813,8 @@
      "date": "2026-11-10",
      "summary": "Fanuc's P-55/15-21A paint robot adds flexible mounting, an ATEX Zone 1 purge cabinet and the new R-50i controller.",
      "why": "Robot launch.",
-     "id": "117201"
+     "id": "117201",
+     "topic": "Fanuc présente un robot de peinture plus flexible, certifié ATEX Zone 1."
     },
     {
      "rank": 7,
@@ -759,7 +823,8 @@
      "date": "2026-11-10",
      "summary": "Knauf Industries is investing €1.3 million in a second thermoforming site at Torcé to add capacity.",
      "why": "French plant investment.",
-     "id": "117175"
+     "id": "117175",
+     "topic": "Knauf Industries investit 1,3 M€ dans un second site de thermoformage."
     }
    ],
    "ids": [
@@ -787,7 +852,8 @@
      "date": "2026-11-14",
      "summary": "Bosch is converting its German Mobility unit and central service functions into separate GmbH subsidiaries from August 1, 2027.",
      "why": "Major German corporate news.",
-     "id": "117367"
+     "id": "117367",
+     "topic": "Bosch gliedert den Bereich Mobility ab August 2027 in eigene GmbHs aus."
     },
     {
      "rank": 2,
@@ -796,7 +862,8 @@
      "date": "2026-11-14",
      "summary": "Phoenix Contact's app runs on the PLCnext Control and gives AI agents controlled access to automation data through MCP.",
      "why": "German company, industrial AI.",
-     "id": "117364"
+     "id": "117364",
+     "topic": "Phoenix Contact öffnet PLCnext-Daten kontrolliert für KI-Agenten."
     },
     {
      "rank": 3,
@@ -805,7 +872,8 @@
      "date": "2026-11-13",
      "summary": "R+L Hydraulics' browser-based Fluidware App configures hydraulic assemblies, generates drawings and calculates prices in real time.",
      "why": "Practical tool for design engineers.",
-     "id": "117336"
+     "id": "117336",
+     "topic": "R+L Hydraulics konfiguriert Hydraulik-Baugruppen im Browser, inklusive Preiskalkulation."
     },
     {
      "rank": 4,
@@ -814,7 +882,8 @@
      "date": "2026-11-12",
      "summary": "Siemens added a stainless-steel Intelligent Valve for direct-to-chip liquid cooling in AI and HPC data centers.",
      "why": "Data center cooling.",
-     "id": "117297"
+     "id": "117297",
+     "topic": "Siemens stellt ein Edelstahl-Ventil für die Flüssigkeitskühlung von KI-Rechenzentren vor."
     },
     {
      "rank": 5,
@@ -823,7 +892,8 @@
      "date": "2026-11-13",
      "summary": "igus's overhead charging system lifts heavy megawatt cables to vehicle height and retracts them when unused.",
      "why": "German company innovation.",
-     "id": "117348"
+     "id": "117348",
+     "topic": "igus zeigt ein Überkopf-Ladesystem für schwere Elektrofahrzeuge."
     },
     {
      "rank": 6,
@@ -832,7 +902,8 @@
      "date": "2026-11-13",
      "summary": "Fraunhofer IPMS will demonstrate light-based wireless data links at SPS 2026 as a radio alternative for time-critical communication.",
      "why": "SPS trade fair, German research.",
-     "id": "117318"
+     "id": "117318",
+     "topic": "Fraunhofer IPMS zeigt auf der SPS 2026 Li-Fi als Funkalternative."
     },
     {
      "rank": 7,
@@ -841,7 +912,8 @@
      "date": "2026-11-13",
      "summary": "Mitsubishi Electric and Nozomi Networks will offer European manufacturers continuous OT asset inventory, risk scoring and incident response.",
      "why": "Cybersecurity.",
-     "id": "117319"
+     "id": "117319",
+     "topic": "Mitsubishi Electric und Nozomi Networks sorgen für Transparenz bei OT-Assets."
     }
    ],
    "ids": [
@@ -869,7 +941,8 @@
      "date": "2026-11-09",
      "summary": "Hungarian earthworks contractor Csanád-Trans grew from a trucking business into a 28-employee firm, now adding a GPS-guided Hyundai excavator.",
      "why": "Local Hungarian success story.",
-     "id": "117108"
+     "id": "117108",
+     "topic": "A Csanád-Trans fuvarozóból autópálya-építő céggé nőtt, és GPS-vezérelt kotrót vásárolt."
     },
     {
      "rank": 2,
@@ -878,7 +951,8 @@
      "date": "2026-11-02",
      "summary": "Schneider Electric unveiled a software-defined medium-voltage switchgear that separates control from hardware for remote upgrades.",
      "why": "Data center build speed.",
-     "id": "116822"
+     "id": "116822",
+     "topic": "A Schneider Electric szoftveralapú kapcsolóberendezéssel gyorsítja az adatközpontok építését."
     },
     {
      "rank": 3,
@@ -887,7 +961,8 @@
      "date": "2026-09-22",
      "summary": "Tungaloy and NTK Cutting Tools plan to merge effective 1 January 2027, with NTK continuing as a division brand.",
      "why": "Cutting-tool industry merger.",
-     "id": "115057"
+     "id": "115057",
+     "topic": "A Tungaloy és az NTK Cutting Tools 2027-ben egyesül."
     },
     {
      "rank": 4,
@@ -896,7 +971,8 @@
      "date": "2026-09-24",
      "summary": "HD Construction Equipment and Manitou Group agreed to distribute each other's compact machines, targeting €825 million in sales by 2030.",
      "why": "Construction machinery deal.",
-     "id": "115067"
+     "id": "115067",
+     "topic": "A HD Construction Equipment és a Manitou kölcsönösen forgalmazza egymás gépeit."
     },
     {
      "rank": 5,
@@ -905,7 +981,8 @@
      "date": "2026-10-14",
      "summary": "Levi Strauss, Marks & Spencer and Schneider Electric's advisory arm launched a program to help apparel suppliers move to renewable power.",
      "why": "Sustainability programme.",
-     "id": "116045"
+     "id": "116045",
+     "topic": "A Levi's, az M&S és a Schneider segíti a ruhaipari beszállítók zöld átállását."
     },
     {
      "rank": 6,
@@ -914,7 +991,8 @@
      "date": "2026-10-19",
      "summary": "Eplan argues that shared engineering data, supported by cloud, AI and Asset Administration Shell standards, connects the automation value chain.",
      "why": "Engineering data strategy.",
-     "id": "115529"
+     "id": "115529",
+     "topic": "Az Eplan szerint az összekapcsolt mérnöki adatok valódi üzleti értéket teremtenek."
     }
    ],
    "ids": [
